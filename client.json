@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newsbot-vctvcc",
+  "private_key_id": "##################",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTs974Fd3T17N0\nfaXl52fCyaG6R00eAltejT8AAeY50xR6cig0SOV6skfQQ5SAkqYCJWHwEy7ua6lt\n+LrlQVmL2+txVqAMSzK10q/kRbkMxSBzs/iRL89urzynTWFOh9qfVJHbSX9O9xx8\nqZ/8s2BwDfCslQ38RZwoKvoPAhSst5JSrFKfRu7rSz4NWLq5Nj14tLvovLL8vWOt\nUYi4UqczjOjIfYPgP1U8qgZWoxTPmEHz+G5qI8QjXbvSy0YZi2oQ9eDTz/9wTGmW\ncYxStfnEWG+O26WiGtbLNl3yEjnoxU4Q7ACYJ/ewpAvreF5PwzJIQPcusNA7QD8V\njTlTiEmHAgMBAAECggEAWo+QaynXed7E6qkxRZbnASGF6IzFxXeWpGzhrVwio0vT\nb8nTvwIMAJ+xLrsqFJInJ7XcHnnmUqGFmgCT2qxI5RZPsm0vC/NDHxqgmZLl5TuS\ndUxgoaMFJkEaPitQ2+orsIrZ1ierqRj2e7GIOe5165lbAkjE8czJTzmLPM5UD8m0\nRIj93IHyG40JdAyp5Gg6LAHfe00FDDMrhWimmcscDFnl6OALa0l/hYcBD6ZHhHiI\np4hhgrO1KF7gg3Ht9jaWi5JE6qdqvmOZyoVfaUh3SbpAvbB8ouvtQKtRY2F1WKAM\nsLXt9z6kh7QYrWVJ2Z2lzvd2lumuh9PFVPuqsz/mIQKBgQDq9MbeMrCls5M4ehsZ\nK/1/65L7KkrUZsg0Al0q56XXgrEfYKzdClRupgBADoOsHNFRIsBgHORI/UauEHY+\nMzRTvcyztEu0biG57Dr9F/bzYgbjd2l6tm\nGTo6Ft+MS3ItBMOcxWx8KBgQDmqewd+zsoYF7mG3/C8dcFAwcJ+fyCTSjv\nx2gUfE/yKr7bH2KGGKtPpUJyZ0kCo3Q+xZN4aIo0dinR5kmok0jhgdL/ldbGEMh1\nJkV7KYjz87/ouvUBt7rNB+1kGUqQKPh3Q7QrJjfMhIoJsado4wOqMhTICLoN2F3H\nBg27FDcRFwKBgQDOh6vn1ZcBkQBwPKVlUw3aTDE/JsXwPwjs7scG1+knr3ISquBI\nzLO7L6A4rol/2TUFpQ6FbeAdaMWgbEgEFO6CTeyKaonBaK2syMJxexQhSlq3naf4\n8WGdUnrWIVLdNtZg4FXCtvdVOoz2agv4C2Trev+2SvtqJy3ruH7L4XmYgQKBgQDR\neAAnne20Fgg4GULlyu9D6uLqiW1o+x8w2LpI2DdVqMHXheHX+vEfi+kSsX8Y+Uzo\ncE4iq3TOfXwu1F2Ry+cEevwdBHqdNcKEuHOijC6Fs5ZUh+tVWv81kHxhSaJv1fUF\ngaNNCBDmFnqwoPdxha7fUUmT+nDTf+hxg6rWeF4lkwKBgB00ZomJkV5oPdovnSJl\n3pdRGi70IZtQmViEqoC8nn/AA4butoy9AvGA7Own9wHGGv4WNikt1kQm1bOPquyl\nI+FOc+ePGDyJmaMl4ahzIRhJvFCPJi9Yc7oy0hHm7i/91S/uGIOrDakSmhlj3+pC\nsXpeCnO0RXC6fGHTfQao+yxC\n-----END PRIVATE KEY-----\n",
+  "client_email": "news1998bot@newsbot-vctvcc.iam.gserviceaccount.com",
+  "client_id": "115113199449271334259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/40newsbot-vctvccm.gserviceaccount.com"
+}
